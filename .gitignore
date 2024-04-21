@@ -1,0 +1,24 @@
+# Maven specific
+target/
+*.iml
+
+# IDE specific
+.idea/
+*.ipr
+*.iws
+*.ids
+*.class
+*.log
+
+# Compiled Java class files
+*.class
+
+# Compiled Java packages
+*.jar
+*.war
+*.ear
+
+
+.settings/
+.classpath
+.project
